@@ -1,1 +1,1 @@
-web: gunicorn CoResources.wsgi --log file -
+web: gunicorn CoResources.wsgi
